@@ -1,0 +1,15 @@
+[gd_resource type="SpriteFrames" format=2]
+
+[resource]
+resource_local_to_scene = true
+animations = [ {
+"frames": [ null ],
+"loop": true,
+"name": "default",
+"speed": 5.0
+}, {
+"frames": [  ],
+"loop": true,
+"name": "New Anim",
+"speed": 5.0
+} ]
